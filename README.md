@@ -1,7 +1,7 @@
 # Ignite Feed
 Projeto desenvolvido durante o curso de ReactJS do Ignite, da Rocketseat.
 Módulos:
-- Projeto 01
+- Projeto 01 com TypeScript
 
 # Visualizações
 ## Mobile
